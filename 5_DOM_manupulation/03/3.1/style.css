@@ -1,0 +1,20 @@
+/* Colorful CSS style for p, h1, and body */
+
+body {
+          background-color: #e4b659;
+          color: #fff;
+        }
+        
+        h1 {
+          font-size: 3em;
+          color: #000000;
+          text-align: center;
+        }
+        
+        p {
+          font-size: 1.2em;
+          color: #00ffff;
+          background-color: #800080;
+          padding: 10px;
+        }
+        
